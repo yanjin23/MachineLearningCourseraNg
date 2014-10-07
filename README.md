@@ -1,4 +1,4 @@
-MOOC
+MachineLearningCourseraNg
 ====
 
-Massive Open Online Course Learning 
+Machine Learning -- by Prof. Andrew Ng Jun 16th 2014
